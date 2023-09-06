@@ -4,4 +4,4 @@ services:
   web:
     image : yashwantlohar/react-django-app
     ports:
-      - "8001:8001"
+      - "8001:8000"
